@@ -42,8 +42,8 @@
                       "enchantment": "minecraft:fortune",
                       "chances": [
                         1.0,
-                        0.14285715,
-                        0.25,
+                        1.0,
+                        1.0,
                         1.0
                       ]
                     }
