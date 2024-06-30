@@ -2,6 +2,7 @@
 - 砂利からの火打ち石排出
 - `The End?`の実績達成から一定時間後にPerch
 - ピグリン交易のパール排出
+- 牛の生肉/ステーキ排出（for steak seed）
 
 ## カスタマイズ
 - `data\rng\functions\main.mcfunction`
