@@ -1,4 +1,7 @@
-砂利の火打ち石の確率と、`The End?`の実績達成から一定時間後にPerchコマンドを実行するだけ。
+## 乱数固定
+- 砂利からの火打ち石排出
+- `The End?`の実績達成から一定時間後にPerch
+- ピグリン交易のパール排出
 
 ## カスタマイズ
 - `data\rng\functions\main.mcfunction`
